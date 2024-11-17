@@ -1,2 +1,13 @@
-# video_recommendation_system
-I developed a video recommendation system utilizing machine learning and natural language processing. The system creates user profiles based on watch history and preferences, analyzes video metadata, and provides personalized recommendations through collaborative and content-based filtering. Built with Python .
+# Video Recommendation System
+
+This project is a **Video recommendation system** built using Python. It fetches user interactions (views, likes, and ratings) and recommends posts using machine learning techniques. The app is hosted locally with a simple interface powered by **Streamlit**.
+
+---
+
+## Features
+
+- Fetch data from multiple APIs (users, posts, interactions).
+- Generate recommendations for posts based on user interactions.
+- Interactive UI for easy exploration and recommendations.
+
+---
