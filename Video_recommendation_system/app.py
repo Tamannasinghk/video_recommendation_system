@@ -1,5 +1,5 @@
 import streamlit as st
-from video_rec import fetch_data, preprocess_data, recommend_posts, get_post_details
+from vid_rec import fetch_data, preprocess_data, recommend_posts, get_post_details
 
 # Streamlit App
 st.title("Video Recommendation System")
